@@ -11,7 +11,12 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
-    "mongodb": "^2.2.35"
+    "haveibeenpwned": "^1.1.0",
+    "hibp": "^7.1.1",
+    "htmlparser": "^1.7.7",
+    "joi": "^13.3.0",
+    "mongodb": "^2.2.35",
+    "request": "^2.87.0"
   },
   "devDependencies": {
     "nodemon": "^1.17.5"
